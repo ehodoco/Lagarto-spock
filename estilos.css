@@ -8,6 +8,7 @@ h1{
 
 body{
     background-color: lightgray ;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F02%2Fspock-in-1960s-star-trek.jpg&f=1&nofb=1&ipt=099366e5bcec4669413026cd3bc1ec8125c6d25a75da23e0e669f630a81777d8);
 }
 
 #opciones{
@@ -28,4 +29,13 @@ button{
     margin: 2rem;
     padding: 3rem;
     background-color: white;
+}
+
+#jugar{
+    width: 80%;
+}
+
+#div_jugar{
+    display: flex;
+    justify-content: center;
 }
